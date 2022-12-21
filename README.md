@@ -5,7 +5,7 @@
 프로젝트 내용|구현 여부 | 구현 날짜
 -----|----- | -----
 직방, 다방 크롤링을 통한 자동 매물 탐색 서비스 | [O] | -
-ElasticSearch, Tokenizer를 이용한 데이터 리스팅 및 검색 구현 | [X] | -
+ElasticSearch, Tokenizer를 이용한 데이터 리스팅 및 검색 구현 | [O] | -
 Kafka를 이용한 sns 서비스 구현 | [X]| -
 로컬 DB Read, Write 분리 및 부하 테스트를 통한 성능 검증 | [X] | -
 DB Shading을 통한 DB 부하 분산 및 테스트를 통한 성능 검증|[X]| -
